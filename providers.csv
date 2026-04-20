@@ -1,0 +1,31 @@
+provider_id,provider_name,specialty,state
+1,Provider_1,Pediatrics,IL
+2,Provider_2,General Medicine,FL
+3,Provider_3,Orthopedics,TX
+4,Provider_4,Pediatrics,FL
+5,Provider_5,Dermatology,CA
+6,Provider_6,General Medicine,CA
+7,Provider_7,Cardiology,NJ
+8,Provider_8,Dermatology,FL
+9,Provider_9,Dermatology,NY
+10,Provider_10,Oncology,TX
+11,Provider_11,Dermatology,NC
+12,Provider_12,Pediatrics,NY
+13,Provider_13,Pediatrics,CA
+14,Provider_14,General Medicine,FL
+15,Provider_15,Pediatrics,GA
+16,Provider_16,General Medicine,NY
+17,Provider_17,Neurology,CA
+18,Provider_18,Orthopedics,NC
+19,Provider_19,Cardiology,IL
+20,Provider_20,Oncology,NY
+21,Provider_21,Radiology,GA
+22,Provider_22,Neurology,NY
+23,Provider_23,Oncology,FL
+24,Provider_24,Oncology,NC
+25,Provider_25,Dermatology,NJ
+26,Provider_26,Orthopedics,NJ
+27,Provider_27,Dermatology,NC
+28,Provider_28,Dermatology,FL
+29,Provider_29,Orthopedics,NJ
+30,Provider_30,Pediatrics,NJ
