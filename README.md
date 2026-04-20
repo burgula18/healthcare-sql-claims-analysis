@@ -1,5 +1,5 @@
-[README.md](https://github.com/user-attachments/files/26912895/README.md)
-# healthcare-sql-claims-analysis# Healthcare SQL Portfolio Project – Claims & Cost Analysis
+
+# Healthcare-sql-claims-analysis# Healthcare SQL Portfolio Project – Claims & Cost Analysis
 
 ## Overview
 This project simulates a healthcare claims analytics environment using realistic sample datasets.
