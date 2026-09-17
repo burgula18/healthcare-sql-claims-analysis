@@ -1,11 +1,10 @@
 
-# Healthcare-sql-claims-analysis# Healthcare SQL Portfolio Project – Claims & Cost Analysis
+# Healthcare SQL Portfolio Project – Claims & Cost Analysis
 
 ## Overview
-This project simulates a healthcare claims analytics environment using realistic sample datasets.
-The objective is to analyze claims, payments, provider performance, and patient cost patterns using SQL.
+This project simulates a healthcare claims analytics environment using realistic sample datasets for patients, providers, claims, and payments.
 
-This project is designed as an intermediate-level SQL portfolio project and is written in Oracle SQL style.
+The project demonstrates SQL-based analysis of healthcare costs, claim status, provider performance, patient utilization, and outstanding payments using Oracle SQL-style queries.
 
 ## Business Problem
 Healthcare organizations process a large number of claims across patients, providers, and specialties.
@@ -127,13 +126,16 @@ healthcare_sql_portfolio_project/
 3. Run queries from queries.sql
 
 ## Sample Portfolio Value
-This project demonstrates how SQL can be used to solve real-world healthcare analytics problems such as:
-- cost analysis
-- claims tracking
-- provider performance evaluation
-- outstanding payment monitoring
 
-This project demonstrates practical SQL skills for analytics and data engineering use cases, including relational data modeling, complex transformations, analytical queries, and data quality validation
+This project demonstrates practical SQL skills for analytics and data engineering use cases, including:
+
+- Relational data modeling
+- Multi-table joins and transformations
+- Claims and payment data analysis
+- Aggregations and analytical queries
+- Window functions and ranking
+- Data quality and payment reconciliation
+- Business-focused healthcare analytics
 
 ## Author
 **Sai Naren Burgula**
