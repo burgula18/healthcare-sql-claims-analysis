@@ -116,7 +116,7 @@ healthcare_sql_portfolio_project/
 - Patients with high paid amounts
 
 ### Advanced SQL
-- Top 3 claims by state using ROW_NUMBER()
+- Top 3 claims per state using ROW_NUMBER()
 - Rank providers using DENSE_RANK()
 - Running monthly claim totals
 - Highest claim per diagnosis category
@@ -133,11 +133,7 @@ This project demonstrates how SQL can be used to solve real-world healthcare ana
 - provider performance evaluation
 - outstanding payment monitoring
 
-It is suitable for showcasing skills relevant to:
-- SQL Developer roles
-- Data Analyst roles
-- Business Intelligence roles
-- Data Engineering transition portfolios
+This project demonstrates practical SQL skills for analytics and data engineering use cases, including relational data modeling, complex transformations, analytical queries, and data quality validation
 
 ## Author
 **Sai Naren Burgula**
